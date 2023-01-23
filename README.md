@@ -13,8 +13,8 @@ Note: You can download the source and lookup the code so you can better understa
 <br/>
 
 ## Screenshots
-| <img src="screenshots/screen_1.jpg" width=250/> | <img src="screenshots/screen_2.jpg" width=250/> |
+| <img src="screenshots/screen_1.jpg" width=200/> | <img src="screenshots/screen_2.jpg" width=200/> |
 |:-----------------------------------------------:|:-----------------------------------------------:|
 
 ## Demo
-<img src="demo/demo.gif" width=250/>
+<img src="demo/demo.gif" width=200, height =500/>
